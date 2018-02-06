@@ -30,7 +30,7 @@ We decided to create our version of the game Gauntlet, **playable from 1 to 4 pl
 ## Authors
 
 * [Maxime Aubanel](https://github.com/MaximeAubanel)
-* [Maxime Aubanel](https://github.com/MaximeAubanel)
+* [Arthur Chennetier](https://github.com/arthurChennetier)
 * [Maxime Aubanel](https://github.com/MaximeAubanel)
 * [Maxime Aubanel](https://github.com/MaximeAubanel)
 * [Maxime Aubanel](https://github.com/MaximeAubanel)
