@@ -1,0 +1,6 @@
+de 0 a 24 -----> courrir
+26 ------> immobile
+de 26 a 38 -----> attaquer
+de 38 a 50 ----> mourrir
+de 52 a 76 -----> content backflip
+de 78 a 102 -----> pas content frontflip fail (ne pas jouer l'anim en boucle)

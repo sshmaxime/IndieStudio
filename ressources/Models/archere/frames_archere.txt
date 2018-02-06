@@ -1,0 +1,13 @@
+de 0 a 12 ----> attaque immobile
+
+de 14 a 38 -----> courrir en attaquant
+
+39 ----> statique
+
+de 40 a 64 ------> courrir sans attaquer
+
+de 66 a 78 -----> mourrir
+
+de 80 a 104 ----> content
+
+de 106 a 130 ---> pas content

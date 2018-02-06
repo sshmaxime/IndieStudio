@@ -1,0 +1,2 @@
+#define Gonetlet_VERSION_MAJOR @Gonetlet_VERSION_MAJOR@
+#define Gonetlet_VERSION_MINOR @Gonetlet_VERSION_MINOR@

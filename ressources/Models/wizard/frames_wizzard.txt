@@ -1,0 +1,11 @@
+1 ----> statique au sol
+
+de 2 a 26 ----> statique et bouger (animation de levitation)
+
+de  28 a 40 -----> attaquer
+
+de 42 a 60 ----> mourrir
+
+de 62 a 80 ----> content
+
+de 82 a 100 ----> pas content

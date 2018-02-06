@@ -1,0 +1,11 @@
+de 0 a 24 ---> courrir
+
+26 ----> statique
+
+de 26 a 46 -----> attaquer
+
+de 48 a 60 ----> mourrir
+
+de 62 a 74 ---> content
+
+de 76 a 88 ----> pas content

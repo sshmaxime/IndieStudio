@@ -1,0 +1,7 @@
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/install/strip.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/install/local.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/gonetlet.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/edit_cache.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/rebuild_cache.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/install.dir
+/home/sshsupreme/tek3/IndieStudio/build/CMakeFiles/list_install_components.dir

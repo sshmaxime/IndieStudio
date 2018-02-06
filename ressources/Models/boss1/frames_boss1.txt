@@ -1,0 +1,7 @@
+de 0 a 26 ---> courrir
+
+de 28 a 40 ----> attaquer
+
+42 statique
+
+de 42 a 60 ---> mourrir
